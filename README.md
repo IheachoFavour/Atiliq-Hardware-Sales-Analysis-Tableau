@@ -23,7 +23,7 @@ The sales director of Atiliq hardware is concerned with the sales and profit tre
 - Market: This contains market code, name and zone.
 
 ## *Tools and Techniques*
-- Sql for inserting the data into tables.
+- Sql for inserting the data into tables. The tables were exported to CSV files.
 - Tableau for data visualisation. [View Here](https://public.tableau.com/app/profile/favour.iheacho/vizzes)
 
 ## *Key Accomplishments*:
